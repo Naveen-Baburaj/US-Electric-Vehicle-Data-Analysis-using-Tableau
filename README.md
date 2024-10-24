@@ -4,7 +4,7 @@
 
 This Tableau dashboard focuses on analysing electric vehicle data in the United States using Tableau. The goal is to provide insights into the adoption of Clean Alternative Fuel Vehicles (CAFV), including Battery Electric Vehicles (BEV) and Plug-in Hybrid Electric Vehicles (PHEV), across different states.
 
-[![USA Electric Vehicle Data Analysis]((https://github.com/Naveen-Baburaj/US-Electric-Vehicle-Data-Analysis-using-Tableau/blob/main/Dashboard%20image.jpeg))](https://public.tableau.com/views/USEVDataAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Dashboard Preview](https://raw.githubusercontent.com/Naveen-Baburaj/US-Electric-Vehicle-Data-Analysis-using-Tableau/main/Dashboard%20image.jpeg)](https://public.tableau.com/views/USEVDataAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Click on the image or [**click here**](https://public.tableau.com/views/USEVDataAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to view the full interactive dashboard.
 
